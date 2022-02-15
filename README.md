@@ -6,6 +6,12 @@ A simple and functional employee data table
 
 - Full Stack: MongoDB + Express.js + React + Node.js 
 
+- NoSQL Database
+
+- JSON extension
+
+- APIs, endpoints and HTTP protocols with ***Postman*** 
+
 ---------
 
 ### Database
@@ -19,7 +25,4 @@ A simple and functional employee data table
 ### Create, edit and delete in real-time with API call
 
 https://user-images.githubusercontent.com/97318219/151679774-0a7b3e73-513a-4d98-8ee1-806dae9e1db5.mov
-
-
-
 
